@@ -1,4 +1,4 @@
-package set.Pesquisa.Ordenacao.ListaAlunos;
+package set.Ordenacao.ListaAlunos;
 
 import java.util.Comparator;
 import java.util.Objects;
